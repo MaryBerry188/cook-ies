@@ -17,7 +17,7 @@ a {
     font-family: Verdana, sans-serif;
     background: #FFFFFF;
     padding: 10px 20px;
-    border-top: 4px solid #8D97A4;
+    border-top: 4px solid #8D97A4; /*убрать полосу в дальнейшем*/
 }
 .container {
     padding-right: 15px;
